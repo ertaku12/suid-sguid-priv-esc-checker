@@ -10,9 +10,9 @@
 ## Usage
 Clone the repository and run the script:
 ```bash
-python3 script.py <suid|sguid>
+python3 checker.py <suid|sguid>
 
-python3 script.py suid
+python3 checker.py suid
 ```
 
 ## License
